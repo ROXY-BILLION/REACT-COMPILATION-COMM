@@ -1,0 +1,144 @@
+MODULE 10 — 10 INDEPENDENT REACT PROJECTS
+
+Just like we did with JavaScript and Web Development, you are now going into independent mode.
+
+No step-by-step tutorial.
+
+No copying complete projects.
+
+Use only concepts you've learned in Phase 3.
+
+You can take them at your own pace.
+
+🟢 PROJECT 1 — Personal Portfolio
+Home
+About
+Skills
+Projects
+Contact
+
+Focus:
+
+Components + Props + Router + basic state
+
+🟢 PROJECT 2 — Product Catalogue
+Products
+Product Details
+Search
+Category Filter
+
+Focus:
+
+Lists + Props + State + Router
+
+🟡 PROJECT 3 — Task Management App
+Add Task
+Complete
+Delete
+Filter
+Task Details
+
+Focus:
+
+State + Lists + Events + Router
+
+🟡 PROJECT 4 — Student Management System
+Students
+Search
+Filter
+Student Details
+Statistics
+
+Focus:
+
+State + Lists + Derived Data + Routing
+
+🟡 PROJECT 5 — Recipe Explorer
+Search
+Recipes
+Recipe Details
+Categories
+Loading
+Error
+Empty Results
+
+Focus:
+
+API + useEffect + Router + State
+
+🟠 PROJECT 6 — Expense Dashboard
+Dashboard
+Transactions
+Add Expense
+Categories
+Totals
+Filtering
+
+Focus:
+
+Forms + State + Lists + Derived Data + Architecture
+
+🟠 PROJECT 7 — Mini Learning Platform
+Home
+Courses
+Course Details
+Lessons
+Progress
+
+Focus:
+
+Router + Props + State + Shared State
+
+🔴 PROJECT 8 — Mini E-Commerce
+Products
+Details
+Cart
+Quantity
+Totals
+
+Focus:
+
+Router + Context + State + Components
+
+This reinforces your Module 9 project.
+
+🔴 PROJECT 9 — API Dashboard
+
+Choose your own domain:
+
+Movies
+Countries
+GitHub
+Weather
+Recipes
+Books
+
+Include:
+
+API
+Search
+Filtering
+Loading
+Error
+Empty
+Details
+
+Focus:
+
+API architecture + Router + State + Components
+
+👑 PROJECT 10 — FINAL BOSS
+MINI SAAS / BUSINESS APPLICATION
+
+You choose the idea.
+
+Examples:
+
+Project Management App
+Course Platform
+Business Dashboard
+Inventory System
+Booking Interface
+Developer Tool
+CRM
+Knowledge Management App
